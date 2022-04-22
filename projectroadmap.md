@@ -2,6 +2,6 @@
 - [x] Create description for the program DONE
 - [x] Create Read.me DONE
 - [x] Run Can-You-Survive-Jumanji-Quiz code to see if it works DONE
-- [ ] Edit coding using youtube tutorial for how to create a fortune teller 
-- [ ] Create various questions and answers
+- [x] Edit coding using youtube tutorial for how to create a fortune teller DONE
+- [x] Create various questions and answers DONE
 - [ ] Test program using different questions
