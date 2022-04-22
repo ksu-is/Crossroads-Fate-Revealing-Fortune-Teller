@@ -17,3 +17,12 @@ elif sel == green:
     print("people who pick green are strong-minded!")
 elif sel == blue:
     print("people who pick blue are strong-minded!")
+time.sleep(3)
+    elf = int(input("Pick a number between 1 and 4: "))
+if elf == 1:
+    print("Ahhh individuals whom pick 1 are very intelligent and personable")
+elif elf == 2:
+    print("people who pick the number 2 are strong-minded!")
+elif elf == 3:
+    print("people who pick the number 2 are strong-minded!")
+time.sleep(3)
