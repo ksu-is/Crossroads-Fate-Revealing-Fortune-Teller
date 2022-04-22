@@ -20,9 +20,9 @@ elif sel == blue:
 time.sleep(3)
     elf = int(input("Pick a number between 1 and 4: "))
 if elf == 1:
-    print("Ahhh individuals whom pick 1 are very intelligent and personable")
+    print("Maybe you should do it another time")
 elif elf == 2:
-    print("people who pick the number 2 are strong-minded!")
+    print("You should do this !")
 elif elf == 3:
-    print("people who pick the number 2 are strong-minded!")
+    print("Do not do this!")
 time.sleep(3)
