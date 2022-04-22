@@ -12,8 +12,8 @@ elif numbers == 3:
 time.sleep(3)
     sel = input("Pick your favorite color: ")
 if sel == red:
-    print("Ahhh individuals whom pick 1 are very intelligent and personable")
+    print("Ahhh individuals whom pick red are very intelligent and personable")
 elif sel == green:
-    print("people who pick the number 2 are strong-minded!")
+    print("people who pick green are strong-minded!")
 elif sel == blue:
-    print("people who pick the number 2 are strong-minded!")
+    print("people who pick blue are strong-minded!")
